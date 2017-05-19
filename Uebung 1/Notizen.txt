@@ -1,0 +1,7 @@
+#### Umgebung
+Umgebungsvariablen für dieses Konto (in Windows 8 Suche eingeben)
+PATH = "C:\Program Files\Java\jdk1.8.0_121\bin\"
+
+#### Java Docs
+http://docs.oracle.com/javase/7/docs/api/
+
